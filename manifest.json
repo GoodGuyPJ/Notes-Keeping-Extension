@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Notes Keeper",
+    "version": "1.0",
+    "description": "Simple note-keeping extension",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/icons16.png",
+        "48": "icons/icons48.png",
+        "128": "icons/icons128.png"
+      }
+    },
+    "icons": {
+      "16": "icons/icons16.png",
+      "48": "icons/icons48.png",
+      "128": "icons/icons128.png"
+    }
+  }
+  
