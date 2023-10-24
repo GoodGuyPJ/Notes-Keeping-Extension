@@ -14,7 +14,8 @@ Developed a Google Chrome Extension from the ground up, showcasing an in-depth u
 Expertise in working with the Chrome Extension API, enabling the creation of browser-based solutions.
 User Experience Enhancement:
 ![img2](https://github.com/GoodGuyPJ/Notes-Keeping-Extension/assets/127659680/d44099a9-87cc-4ea5-b798-00f243227d63)
- 
+
+ User Experience Enhancement:
 Designed and developed a user-friendly, intuitive interface for the Notes Keeping Chrome Extension, emphasizing the importance of enhancing the user experience.
 Implemented a responsive design that adapts to various screen sizes, ensuring a consistent and enjoyable user experience.
 Provided customization options, such as themes and settings, to empower users to tailor their experience to their preferences.
